@@ -1,2 +1,3 @@
-# Kattis-Challenges
-Java solutions for various programming challenges on Kattis.
+# Kattis Challenges
+
+My solutions to various programming challenges on [Kattis](https://open.kattis.com/).
